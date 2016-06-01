@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkTest2.CSharp.Plugins", "NetworkTest2.CSharp.Plugins.csproj", "{00484259-A05B-D7BC-3E36-94E4470DB214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkTest2.CSharp", "NetworkTest2.CSharp.csproj", "{56835046-9448-80DF-5DE8-5F8C9416DEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkTest2.CSharp.Editor", "NetworkTest2.CSharp.Editor.csproj", "{EA79497F-0681-6FE7-423E-A51B9670B722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00484259-A05B-D7BC-3E36-94E4470DB214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00484259-A05B-D7BC-3E36-94E4470DB214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00484259-A05B-D7BC-3E36-94E4470DB214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00484259-A05B-D7BC-3E36-94E4470DB214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56835046-9448-80DF-5DE8-5F8C9416DEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56835046-9448-80DF-5DE8-5F8C9416DEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56835046-9448-80DF-5DE8-5F8C9416DEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56835046-9448-80DF-5DE8-5F8C9416DEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA79497F-0681-6FE7-423E-A51B9670B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA79497F-0681-6FE7-423E-A51B9670B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA79497F-0681-6FE7-423E-A51B9670B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA79497F-0681-6FE7-423E-A51B9670B722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
