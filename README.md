@@ -1,6 +1,7 @@
 # Sea battle
 This is my sea-battle game project, created with Unity3D. <br>
 Game use Photon Unity Network asset to connect players, and creating room for them. <br>
+All my C# scripts located at "/Assets/Game/Scripts" folder
 <br>
 <br>
 Instruction: <br>
